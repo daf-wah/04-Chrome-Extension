@@ -24,13 +24,16 @@ button {
     font-weight: bold;
 }
 
-/* #box {
-    cursor: pointer;
-    background: lightseagreen;
-    padding: 40px;
-    width: 200px;
-    text-align: center;
-    margin: 20px auto;
-    color: white;
-    font-weight: bold;
-} */
+ul {
+    padding-top: 1.25em;
+}
+
+li {
+    list-style: none;
+    padding-bottom: .5rem;
+}
+
+a {
+    color: #5f9341;
+
+}
